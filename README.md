@@ -8,6 +8,7 @@
 **<img align="center" alt="icon-js" height="80" width="80" src="profiles/caliu.jpeg" style="max-width:100%;"></img> - Caliu Magalhães**
 
 **<img align="center" alt="icon-js" height="80" width="80" src="profiles/joao_augusto.jpeg" style="max-width:100%;"></img> - João Augusto**
+<img align="center" alt="icon-js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;"> **GitHub - (https://github.com/VitorGeovani)**
 
 **<img align="center" alt="icon-js" height="80" width="80" src="profiles/jorge.jpeg" style="max-width:100%;"></img> - Jorge Gonzaga**
 
@@ -15,4 +16,5 @@
 
 **<img align="center" alt="icon-js" height="80" width="80" src="profiles/rosana.jpeg" style="max-width:100%;"></img> - Rosana Araújo**
 
-**<img align="center" alt="icon-js" height="80" width="80" src="profiles/eu_4.jpeg" style="max-width:100%;"></img> - Vitor Geovani**
+**<img align="center" alt="icon-js" height="80" width="80" src="profiles/eu_4.jpeg" style="max-width:100%;"></img> - Vitor Geovani |**
+<img align="center" alt="icon-js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;"> **GitHub - (https://github.com/VitorGeovani)**
