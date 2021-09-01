@@ -1,0 +1,60 @@
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Visualizar Usuario</li>
+  </ol>
+</nav>
+
+<div class="view-user p-5">
+
+    {{#each rows}}
+    <div class="row mb-5">
+    <div class="col text-center">
+        <h3>{{this.primeiro_nome}} {{this.segundo_nome}}</h3>
+    </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <table class="table">
+                <thead>
+                    <tr>
+                       <th scope="col">primeiro nome</th>
+                       <th scope="col">segundo nome</th>
+                       <th scope="col">e-mail</th>
+                       <th scope="col">telefone</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                         <th scope="row">{{this.id}}</th>
+                         <td>{{this.primeiro_nome}}</td>
+                         <td>{{this.segundo_nome}}</td>
+                         <td>{{this.email}}</td>
+                         <td>{{this.telefone}}</td>
+      
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+      <div class="row">
+      <div class="col">
+          <b>comments</b>
+      </div>
+      </div>
+     <div class="row">
+          <div class="col">
+              {{this.comments}}
+          </div>
+     </div>
+
+
+
+    </div>
+
+
+{{/each}}
+
+</div>
+
+
