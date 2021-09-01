@@ -15,6 +15,22 @@
 
 <img align="center" alt="icon-js" height="30" width="40" src="icons/microsoft-azure-svgrepo-com.svg" style="max-width:100%;"></img> **Microsoft Azure -  (https://azure.microsoft.com/pt-br/)**
 
+## :information_source: **Acesse nossa demo no Azure --> (http://crud-informatica.eastus.cloudapp.azure.com:3000)**
+
+## :information_source: **Comandos importantes:**
+### 📍 **Instala as dependências**
+**sudo npm install (Linux)** <br>
+**npm install**
+
+
+### 📍 **Inicia um projeto**
+**sudo npm init (Linux)** <br>
+**npm init**
+
+### 📍 **Roda o projeto**
+**npm start** <br>
+**sudo ./node_modules/.bin/nodemon app.js & (Linux)**
+
 ## Membros da Equipe de Infra :beginner:
 
 **<img align="center" alt="icon-js" height="80" width="80" src="profiles/caliu.jpeg" style="max-width:100%;"></img> - Caliu Magalhães**
