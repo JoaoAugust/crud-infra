@@ -9,6 +9,11 @@
 
 ## 📌 Recursos usados neste projeto:
 
+<img align="center" alt="icon-js" height="30" width="40" src="icons/visual-studio-code-logo-svg-vector.svg" style="max-width:100%;"></img> **Visual Studio Code -  (https://code.visualstudio.com/Download)**
+
+<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></img> **NodeJS - (https://nodejs.org/en/)**
+
+<img align="center" alt="icon-js" height="30" width="40" src="icons/microsoft-azure-svgrepo-com.svg" style="max-width:100%;"></img> **Microsoft Azure -  (https://azure.microsoft.com/pt-br/)**
 
 ## Membros da Equipe de Infra :beginner:
 
