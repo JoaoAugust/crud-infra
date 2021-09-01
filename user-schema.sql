@@ -1,0 +1,1 @@
+CREATE TABLE `usermanagement_tut`.`user` ( `id` INT NOT NULL AUTO_INCREMENT , `primeiro_nome` VARCHAR(45) NOT NULL , `segundo_nome` VARCHAR(45) NOT NULL , `email` VARCHAR(45) NOT NULL , `telefone` VARCHAR(45) NOT NULL , `comments` TEXT NOT NULL , `status` VARCHAR(10) NOT NULL DEFAULT 'active' , PRIMARY KEY (`id`)) ENGINE = InnoDB;
