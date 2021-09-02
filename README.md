@@ -33,7 +33,7 @@
 
 ## Membros da Equipe de Infra :beginner:
 
-**<img align="center" alt="icon-js" height="80" width="80" src="profiles/caliu.jpeg" style="max-width:100%;"></img> - Caliu Magalhães**
+**<img align="center" alt="icon-js" height="80" width="80" src="profiles/caliu.jpeg" style="max-width:100%;"></img> - Caliu Magalhães |**
 <a href="https://github.com/caliusantos" target="_blank">
   <img align="center" alt="icon-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;">
 </a>
