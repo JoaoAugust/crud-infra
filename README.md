@@ -59,5 +59,10 @@
 <a href="https://github.com/VitorGeovani" target="_blank">
   <img align="center" alt="icon-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;">
 </a>
+<a href="https://www.linkedin.com/in/vitor-silva-0b460021b/" target="_blank">
+  <img align="center" alt="icon-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+</a>
+
+
 
 
