@@ -49,7 +49,7 @@
   <img align="center" alt="icon-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
-**<img align="center" alt="icon-js" height="80" width="80" src="profiles/jorge.jpeg" style="max-width:100%;"></img> - Jorge Gonzaga**
+**<img align="center" alt="icon-js" height="80" width="80" src="profiles/jorge.jpeg" style="max-width:100%;"></img> - Jorge Gonzaga |**
 <a href="https://github.com/1997jorge" target="_blank">
   <img align="center" alt="icon-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;">
 </a>
@@ -57,7 +57,7 @@
   <img align="center" alt="icon-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
-**<img align="center" alt="icon-js" height="80" width="80" src="profiles/luiz.jpeg" style="max-width:100%;"></img> - Luiz Alberto**
+**<img align="center" alt="icon-js" height="80" width="80" src="profiles/luiz.jpeg" style="max-width:100%;"></img> - Luiz Alberto |**
 <a href="https://github.com/braquiara10" target="_blank">
   <img align="center" alt="icon-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;">
 </a>
