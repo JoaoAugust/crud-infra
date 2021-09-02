@@ -34,6 +34,12 @@
 ## Membros da Equipe de Infra :beginner:
 
 **<img align="center" alt="icon-js" height="80" width="80" src="profiles/caliu.jpeg" style="max-width:100%;"></img> - Caliu Magalhães**
+<a href="https://github.com/caliusantos" target="_blank">
+  <img align="center" alt="icon-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;">
+</a>
+<a href="https://www.linkedin.com/in/caliu-dos-santos-949561101/" target="_blank">
+  <img align="center" alt="icon-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+</a>
 
 **<img align="center" alt="icon-js" height="80" width="80" src="profiles/joao_augusto.jpeg" style="max-width:100%;"></img> - João Augusto |**
 <a href="https://github.com/JoaoAugust" target="_blank">
