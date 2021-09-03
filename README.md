@@ -66,6 +66,12 @@
 </a>
 
 **<img align="center" alt="icon-js" height="80" width="80" src="profiles/rosana.jpeg" style="max-width:100%;"></img> - Rosana Araújo**
+<a href="https://github.com/rosana-araujo" target="_blank">
+  <img align="center" alt="icon-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;">
+</a>
+<a href="https://www.linkedin.com/in/rosana-araujo-dos-santos-4b093713b" target="_blank">
+  <img align="center" alt="icon-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+</a>
 
 **<img align="center" alt="icon-js" height="80" width="80" src="profiles/eu_4.jpeg" style="max-width:100%;"></img> - Vitor Geovani |**
 <a href="https://github.com/VitorGeovani" target="_blank">
