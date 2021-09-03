@@ -1,0 +1,22 @@
+<div class="page-header text-center">
+    <h1><span class="fa fa-check-square"></span>Login feito com sucesso!!</h1>
+    <a href="/logout"  class="btn btn-danger btn-sm">Sair</a>
+</div>
+
+<div class="row">
+    <div class="col-sm-6">
+        <div class="well">
+            <h3><span class="fa fa-user"></span>Informação de Usuário</h3>
+
+            <p>
+                <strong>id</strong>: {{user.id}}<br>
+                <strong>Email</strong>: {{user.email}}<br>
+                <strong>Senha</strong>: {{user.senha}}
+            </p>
+
+            <button class="btn btn-primary" onclick="window.location.href = 'http://crud-informatica.eastus.cloudapp.azure.com:3000/'">Acessar o CRUD</button>
+
+        </div>
+    </div>
+
+</div>
