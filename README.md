@@ -5,7 +5,7 @@
 
 ## :information_source: Especificações do Projeto:
 
-**Neste projeto utilizamos o Node.js, MySQL e o Azure com o Debian 10 "Buster" para realizarmos um CRUD, dividindo as partes do trabalho em Front-End, Back-End, Banco de Dados e Máquina Virtual. A ideia deste CRUD é simularmos uma Loja de Informática, onde são registrados os produtos, que no nosso caso possuem, código, nome, valor e descrição do produto.**
+**Neste projeto utilizamos o Node.js, MySQL e o Azure com o Debian 10 "Buster" para realizarmos um CRUD, dividindo as partes do trabalho em Front-End, Back-End, Banco de Dados e Máquina Virtual. A ideia deste CRUD é simularmos um Sistema de Cadastro de Pessoas, onde são registrados os usuários, que no nosso caso possuem, Nome, Sobrenome, Email, Telefone, Biografia e Senha.**
 
 ## 📌 Recursos usados neste projeto:
 
